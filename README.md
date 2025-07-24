@@ -16,4 +16,11 @@
 8. Storage Device Management  
     8.1. hard disk, partition table, partition, file system, mountpoint  
     8.2. LVM (PV, VG, LV)  
-    8.3. RAID (raid0, raid1, raid10, raid5, raid6, raid50, raid60)  
+    8.3. RAID (0, 1, 10, 5, 6, 50, 60)
+9. Bash Shell Scripting  
+10. Linux Networking  
+11. Linux Firewall  
+    11.1. Firewalld  
+    11.2. UFW  
+    11.3. ipTables  
+    11.4. nfTables  
