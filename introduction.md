@@ -1,4 +1,4 @@
-# Linux
+# Linux Essentials
 
 ```bash
 [user@host ~]$
