@@ -1,11 +1,11 @@
 # Linux Essentials
 
-```bash
+```shell
 command [option(s)] [arguments]
 ```
-```bash
+```shell
 [user@host ~]$
 ```
-```bash
+```shell
 [root@host ~]#
 ```
