@@ -8,6 +8,13 @@ $ ls -lh /usr
 ```
 
 ```shell
+$ ls -a
+$ ls --all
+
+$ ls -all
+```
+
+```shell
 [user@host ~]$
 ```
 ```shell
